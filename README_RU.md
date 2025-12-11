@@ -63,5 +63,5 @@
 ## Контакты
 Если у вас возникли вопросы по проекту, вы можете связаться со мной:
 
-* Email: ---
+* Email: chernoff.work@yandex.ru
 * [GitHub](https://github.com/gh0st-kid) 
