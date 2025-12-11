@@ -67,5 +67,5 @@ The following main libraries were used in this project:
 ## Contacts
 If you have any questions about the project, feel free to reach out to me:
 
-* Email: ---
+* Email: chernoff.work@yandex.ru
 * [GitHub](https://github.com/gh0st-kid)
